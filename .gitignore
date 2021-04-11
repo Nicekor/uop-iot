@@ -1,3 +1,6 @@
 .vscode
 ESPlorer
 nodemcu-19-modules-firmware-float.bin
+node_modules
+package-lock.json
+package.json
